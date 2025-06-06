@@ -9,5 +9,4 @@ image: "fungi-2027648_1280.png"
 
 Ordenando procesos e ideas para mostrar cómo se puede trabajar con diferentes bases de datos.
 
-
 ![](fungi-2027648_1280.png){fig-align="center" width="30%"}
