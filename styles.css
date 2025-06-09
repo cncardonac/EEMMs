@@ -8,6 +8,8 @@
   color: black;
   text-shadow: 2px 2px 6px white;
 }
-.subtitulo-negro {
-  color: black;
+.quarto-title-banner .subtitle {
+  color: black;                 /* Color del texto */
+  font-weight: bold;           /* Negrita */
+  text-shadow: 2px 2px 6px rgba(255, 255, 255, 0.8); /* Sombra clara para resaltar sobre fondo oscuro */
 }
