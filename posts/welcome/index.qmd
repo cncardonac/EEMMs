@@ -1,9 +1,10 @@
 ---
 title: "¿Qué hongo con este Blog?"
 subtitle: "*Un espacio para explorar, escribir y compartir mi viaje micológico*"
+## <span class="subtitulo-negro">Este es mi subtítulo</span>
 author: "Nohemy Cardona Claros"
 date: "2025-03-31"
-categories: [news]
+categories: [bienvenida]
 ---
 
 Este blog nace como parte de mi aventura en el mundo de los hongos, en particular de aquellos que se pueden degustar y que, al mismo tiempo, establecen alianzas íntimas con las raíces de los árboles: **los hongos ectomicorrízicos comestibles**.
