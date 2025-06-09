@@ -1,5 +1,5 @@
 ---
-title: "Hongos ectomicorrízicos comestibles"
+title: "."
 listing:
   contents: posts
   sort: "date desc"

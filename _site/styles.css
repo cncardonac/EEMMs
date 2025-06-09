@@ -1,3 +1,10 @@
-p {
-  text-align: justify;
+.quarto-title-banner {
+  background-image: url("https://fmfutura.com.ar/wp-content/uploads/2021/08/hong.jpg");
+  background-attachment: fixed;
+  background-position: absolute;
+  background-size: 45%;
+}
+.quarto-title-banner .title {
+  color: black;
+  text-shadow: 2px 2px 6px white;
 }

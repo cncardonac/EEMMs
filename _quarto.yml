@@ -2,9 +2,10 @@ project:
   type: website
 
 website:
-  title: "EEMMs"
+  title: "Crónicas de Micelio"
   navbar:
-    right:
+
+     right:
       - about.qmd
       - icon: github
         href: https://github.com/
@@ -12,9 +13,6 @@ website:
         href: https://twitter.com
 format:
   html:
-    theme:
-      -minty
+    theme: pulse
     css: styles.css
-
-editor: visual
 
